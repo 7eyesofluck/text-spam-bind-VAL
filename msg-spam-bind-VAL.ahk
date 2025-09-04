@@ -1,7 +1,7 @@
 #SingleInstance Force
 
 ; Define your list of messages
-Messages := ["noob", "ez", "free", "bad", "bot", "idiot", "range bot", "no brain", "how did u even hit the install button?", "try turning on the monitor", "lucky", "buy lottery ticket pls", "team diff", "sit", "dogs"]
+Messages := ["Paste messages here", "Feel free to use for anything"]
 
 Right::
     ; Press Enter before sending message
@@ -16,3 +16,4 @@ Right::
     
     ; Press Enter after sending message
     Send {Enter}
+
