@@ -1,4 +1,4 @@
-# trash-talk-bind
+# text-spam-bind-VAL
 AHK Script for spamming messages in valorant
 
 Keybinds:
